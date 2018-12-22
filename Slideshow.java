@@ -1,4 +1,4 @@
-//import nesssesary classes
+//import nesssesary classess
 import javafx.application.Application;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
@@ -35,7 +35,7 @@ public class Slideshow extends Application{
 			System.out.println("displaying image " + scene);
 	    }
 
-	   
+
 	    System.out.println("All images displayed");
 	}
 
@@ -47,5 +47,5 @@ public class Slideshow extends Application{
 	public static void main(String[] args) {
 		launch(args);
 	}
-	
+
 }
